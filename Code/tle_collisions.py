@@ -2,6 +2,7 @@ import requests
 import getpass
 from skyfield.api import EarthSatellite, load
 import numpy as np
+import matplotlib.pyplot as plt
 
 # Function to fetch TLE data from space-track.org
 def fetch_tle(norad_id, username, password):
@@ -69,3 +70,15 @@ for t in time_steps:
         relative_positions[satellites_info[i][1]].append(np.linalg.norm(rel_pos))
         approach_speeds[satellites_info[i][1]].append(approach_speed)
     times.append(t.utc_iso())
+
+# Plot relative positions
+plt.figure(figsize=(10, 6))
+for name, positions in relative_positions.items():
+    plt.plot(times, positions, label=f"Relative Position to {name}")
+plt.xlabel('Time (UTC)')
+plt.ylabel('Relative Position (km)')
+plt.title('Relative Position to ISS Over 2 Days')
+plt.xticks(rotation=45)
+plt.legend()
+plt.tight_layout()
+plt.show()
