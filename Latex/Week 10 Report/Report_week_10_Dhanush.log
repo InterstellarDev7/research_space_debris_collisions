@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.6)  17 JUL 2025 13:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.6)  4 AUG 2025 23:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/macbook/Library/CloudStorage/OneDrive-Embry-RiddleAeronauticalUniversity/Clubs/Dr. Fan's Research/research_space_debris_collisions/Latex/Week 7 Report/Report_week_7_Dhanush.tex"
-(/Users/macbook/Library/CloudStorage/OneDrive-Embry-RiddleAeronauticalUniversity/Clubs/Dr. Fan's Research/research_space_debris_collisions/Latex/Week 7 Report/Report_week_7_Dhanush.tex
+**"/Users/macbook/Library/CloudStorage/OneDrive-Embry-RiddleAeronauticalUniversity/Clubs/Dr. Fan's Research/research_space_debris_collisions/Latex/Week 10 Report/Report_week_10_Dhanush.tex"
+(/Users/macbook/Library/CloudStorage/OneDrive-Embry-RiddleAeronauticalUniversity/Clubs/Dr. Fan's Research/research_space_debris_collisions/Latex/Week 10 Report/Report_week_10_Dhanush.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -253,8 +253,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count311
-) (./Report_week_7_Dhanush.aux)
-\openout1 = `Report_week_7_Dhanush.aux'.
+) (./Report_week_10_Dhanush.aux)
+\openout1 = `Report_week_10_Dhanush.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -310,9 +310,9 @@ LaTeX Font Info:    ... okay on input line 16.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 16.
-(./Report_week_7_Dhanush.out) (./Report_week_7_Dhanush.out)
+(./Report_week_10_Dhanush.out) (./Report_week_10_Dhanush.out)
 \@outlinefile=\write3
-\openout3 = `Report_week_7_Dhanush.out'.
+\openout3 = `Report_week_10_Dhanush.out'.
 
  (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -342,123 +342,97 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.50     \item O
-                ther parameters that are important in conjunction analysis i... [1
+l.50     \item F
+                or satellites like GEOS-C, which operate in long-arc mission... [1
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Overfull \hbox (17.743pt too wide) in paragraph at lines 52--53
-[]\OT1/cmr/m/n/12 Predictive Ephemerides: NASA uses Or-bit Ephemeris Mes-sage (OEM)-formatted
- []
-
+<figure_week_10_covariance.png, id=22, 1027.84pt x 1027.84pt>
+File: figure_week_10_covariance.png Graphic file (type png)
+<use figure_week_10_covariance.png>
+Package pdftex.def Info: figure_week_10_covariance.png  used on input line 58.
+(pdftex.def)             Requested size: 375.80544pt x 375.80936pt.
 
 
 [2]
-<figure_week_7_fetch1.png, id=29, 618.31pt x 681.54625pt>
-File: figure_week_7_fetch1.png Graphic file (type png)
-<use figure_week_7_fetch1.png>
-Package pdftex.def Info: figure_week_7_fetch1.png  used on input line 73.
-(pdftex.def)             Requested size: 375.80544pt x 414.25548pt.
-
 
 [3
-
-]
-<figure_week_7_fetch2.png, id=37, 686.565pt x 576.1525pt>
-File: figure_week_7_fetch2.png Graphic file (type png)
-<use figure_week_7_fetch2.png>
-Package pdftex.def Info: figure_week_7_fetch2.png  used on input line 80.
-(pdftex.def)             Requested size: 375.80544pt x 315.36394pt.
-
-
-[4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.84 
-      <./figure_week_7_fetch1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
+l.77     \item T
+                ools that might be able to do the job: <./figure_week_10_covariance.png (PNG copy)>]
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 98--101
 
  []
 
-<figure_week_7_fetch-output.png, id=44, 326.21875pt x 148.555pt>
-File: figure_week_7_fetch-output.png Graphic file (type png)
-<use figure_week_7_fetch-output.png>
-Package pdftex.def Info: figure_week_7_fetch-output.png  used on input line 91.
-(pdftex.def)             Requested size: 375.80544pt x 171.14972pt.
+
+Overfull \hbox (104.62306pt too wide) in paragraph at lines 98--101
+\OT1/cmr/m/n/12 After some trou-bleshoot-ing with the new func-tions and file di-rec-tory and path the \OT1/cmtt/m/n/12 week6-7[]analyze[]approach.py
+ []
+
+<figure_week_10_satellitestxt.png, id=45, 465.74pt x 125.46875pt>
+File: figure_week_10_satellitestxt.png Graphic file (type png)
+<use figure_week_10_satellitestxt.png>
+Package pdftex.def Info: figure_week_10_satellitestxt.png  used on input line 104.
+(pdftex.def)             Requested size: 375.80544pt x 101.2443pt.
+<figure_week_10_output.png, id=47, 467.7475pt x 85.31876pt>
+File: figure_week_10_output.png Graphic file (type png)
+<use figure_week_10_output.png>
+Package pdftex.def Info: figure_week_10_output.png  used on input line 111.
+(pdftex.def)             Requested size: 375.80544pt x 68.5519pt.
+<figure_week_10_graph.png, id=48, 1037.0745pt x 638.1441pt>
+File: figure_week_10_graph.png Graphic file (type png)
+<use figure_week_10_graph.png>
+Package pdftex.def Info: figure_week_10_graph.png  used on input line 118.
+(pdftex.def)             Requested size: 375.80544pt x 231.24097pt.
 
 
 [5
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.95 
-      <./figure_week_7_fetch2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 96--99
-
- []
-
-<figure_week_6_analyze-approach.png, id=51, 757.83125pt x 895.345pt>
-File: figure_week_6_analyze-approach.png Graphic file (type png)
-<use figure_week_6_analyze-approach.png>
-Package pdftex.def Info: figure_week_6_analyze-approach.png  used on input line 102.
-(pdftex.def)             Requested size: 375.80544pt x 443.99637pt.
-
-
-[6
+l.122 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.106 
-       <./figure_week_7_fetch-output.png>]
-<figure_week_7_analysis-output.png, id=59, 421.575pt x 86.3225pt>
-File: figure_week_7_analysis-output.png Graphic file (type png)
-<use figure_week_7_analysis-output.png>
-Package pdftex.def Info: figure_week_7_analysis-output.png  used on input line 109.
-(pdftex.def)             Requested size: 375.80544pt x 76.95189pt.
+l.122 
+       <./figure_week_10_satellitestxt.png> <./figure_week_10_output.png>]
 
-
-[7
+[6
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.116   B
-         ecause I was not successful in fetching the TLE data from Space-Tra...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.5}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.116   B
-         ecause I was not successful in fetching the TLE data from Space-Tra... <./figure_week_6_analyze-approach.png> <./figure_week_7_analysis-output.png>]
+l.123 \chapter
+              *{Next Steps} <./figure_week_10_graph.png>]
 
-[8]
-Overfull \hbox (2.90813pt too wide) in paragraph at lines 132--133
-[]\OT1/cmr/m/n/12 How to pro-pogate co-vari-ance, an-a-lyt-i-cally or nu-mer-i-cally (Monte Carlo or sigma points). 
- []
+[7
 
-
-
-[9
-
-] (./Report_week_7_Dhanush.aux)
+] (./Report_week_10_Dhanush.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
-Package rerunfilecheck Info: File `Report_week_7_Dhanush.out' has not changed.
+Package rerunfilecheck Info: File `Report_week_10_Dhanush.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10122 strings out of 469608
- 157587 string characters out of 5470601
- 556881 words of memory out of 5000000
- 36824 multiletter control sequences out of 15000+600000
+ 10112 strings out of 469608
+ 157253 string characters out of 5470601
+ 555885 words of memory out of 5000000
+ 36816 multiletter control sequences out of 15000+600000
  633317 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,624b,668s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,538b,670s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Report_week_7_Dhanush.pdf (10 pages, 844432 bytes).
+Output written on Report_week_10_Dhanush.pdf (8 pages, 1486493 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
